@@ -1,4 +1,4 @@
- # Use an official Apache Tomcat image as a base
+# Use an official Apache Tomcat image as a base
 FROM tomcat:9.0
 
 # Copy the packaged WAR file into the webapps directory of Tomcat
